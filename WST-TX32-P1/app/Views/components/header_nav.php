@@ -5,7 +5,7 @@
       <a class="navbar-brand" href="<?= base_url() ?>">
       <img src="images/GoGustoLogo.png" alt="Logo" style="width: 50px;">
       </a>
-      <a class="brand-name nav-link" href="landing.php">GoGusto</a>
+      <a class="brand-name nav-link" href="<?= base_url() ?>">GoGusto</a>
       <!-- Toggler for mobile view -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
